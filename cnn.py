@@ -256,3 +256,5 @@ print("="*60)
 print("\n✅ Plots: pca_variance, ewoa_convergence, results, shap_summary, shap_bar, shap_force_plot")
 print("Run: streamlit run step3_dashboard.py")
 #some random change to test git pull request
+
+# End of cnn.py
