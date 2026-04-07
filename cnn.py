@@ -255,6 +255,7 @@ print(f"  EWOA Fitness      : {best_fit:.4f}")
 print("="*60)
 print("\n✅ Plots: pca_variance, ewoa_convergence, results, shap_summary, shap_bar, shap_force_plot")
 print("Run: streamlit run step3_dashboard.py")
+print("\n" + "="*60)
 #some random change to test git pull request
 
 # End of cnn.py
